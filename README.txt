@@ -14,6 +14,6 @@ This script uses Python3.6. The following libraries need to be installed:
 gitpython - to install using pip:
 pip install gitpython
 
-requests - to intall using pip:
+requests - to install using pip:
 pip install requests
 
