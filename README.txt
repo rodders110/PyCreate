@@ -9,4 +9,11 @@ Once dowloaded please create a Config.txt file in the same directory as Create.p
 developer Settings>Personal access tokens
 
 
-This script uses GitPython. Information and instructions of installing this can be found at: https://gitpython.readthedocs.io/en/stable/intro.html
+This script uses Python3.6. The following libraries need to be installed:
+
+gitpython - to install using pip:
+pip install gitpython
+
+requests - to intall using pip:
+pip install requests
+
